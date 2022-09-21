@@ -119,6 +119,7 @@ let mutable languages = [
     lang "FIDL" "" ".fidl" <| sc [line "///?"]
     lang "Go" "" ".go" <| sc [block' ("", "") (@"/\*", @"\*/") godoc; line' "//" godoc]
     lang "Git commit" "git-commit" "tag_editmsg" <| docOf markdown
+    lang "GN" "" ".gn|.gni" <| configFile
     lang "GraphQL" "" ".graphql|.gql" <| sc [line "#"; block (@".*?""""""", "\"\"\"")]
     lang "Groovy" "" ".groovy" java
     lang "Handlebars" "" ".handlebars|.hbs" <| sc [block ("{{!--", "--}}"); block ("{{!", "}}"); block ("<!--", "-->")]

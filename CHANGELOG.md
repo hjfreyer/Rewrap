@@ -39,6 +39,10 @@ See also [https://github.com/dnut/rewrap/releases](https://github.com/dnut/rewra
 
 ---
 
+### Unreleased
+
+- Add GN language (#342)
+
 
 ### 1.16.3
 
