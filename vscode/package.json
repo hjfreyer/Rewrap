@@ -1,6 +1,6 @@
 {
-  "name": "rewrap",
-  "displayName": "Rewrap",
+  "name": "rewrap-revived",
+  "displayName": "Rewrap Revived",
   "description": "Hard word wrapping for comments and other text at a given column.",
   "keywords": [
     "word wrap",
