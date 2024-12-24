@@ -8,11 +8,11 @@ build() {
 }
 
 package() {
-    _vsce package
+    _vsce package $@
 }
 
 publish() {
-    _vsce publish
+    _vsce publish $@
 }
 
 _vsce() {
