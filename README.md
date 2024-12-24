@@ -5,7 +5,7 @@ we want-->
 <table class="topright" align="right" style="font-size:90%;width:auto;margin:0;border:none">
 <tr style="border:none"><td align="right" style="border:none">
 For <a href="https://marketplace.visualstudio.com/items?itemName=dnut.rewrap-revived"><b>VS Code</b></a>,
-<a href="https://open-vsx.org/extension/dnut/rewrap"><b>Open VSX</b></a> and
+<a href="https://open-vsx.org/extension/dnut/rewrap-revived"><b>Open VSX</b></a> and
 <a href="https://marketplace.visualstudio.com/items?itemName=stkb.Rewrap-18980">
   <b>Visual Studio</b></a>.<br/>
 Latest stable version <b>1.16.3</b> / pre-release <b>17.x</b> /
