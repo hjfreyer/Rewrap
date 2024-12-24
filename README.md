@@ -15,11 +15,11 @@ Latest stable version <b>1.16.3</b> / pre-release <b>17.x</b> /
 
 <h1 style="font-size: 2.5em">Rewrap</h1>
 
-<img src="https://stkb.github.io/Rewrap/images/example.svg" width="700px"/><br/><br/>
+<img src="https://dnut.github.io/Rewrap/images/example.svg" width="700px"/><br/><br/>
 
 The main Rewrap command is: <sn>**Rewrap Comment / Text**</sn>, by default bound to
 `Alt+Q`. With the cursor in a comment block, hit this to re-wrap the contents to the
-[specified wrapping column](https://stkb.github.io/Rewrap/configuration/#wrapping-column).
+[specified wrapping column](https://dnut.github.io/Rewrap/configuration/#wrapping-column).
 
 
 ## Features
@@ -33,7 +33,7 @@ The main Rewrap command is: <sn>**Rewrap Comment / Text**</sn>, by default bound
 The contents of comments are usually parsed as markdown, so you can use lists, code
 samples (which are untouched) etc:
 
-<img src="https://stkb.github.io/Rewrap/images/example1.svg" width="700px"/>
+<img src="https://dnut.github.io/Rewrap/images/example1.svg" width="700px"/>
 
-<div class="hideOnDocsSite"><br/><b><a href="https://stkb.github.io/Rewrap/">
+<div class="hideOnDocsSite"><br/><b><a href="https://dnut.github.io/Rewrap/">
 See the docs site for more info.</a></b></div>
