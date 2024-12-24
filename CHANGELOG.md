@@ -1,4 +1,4 @@
-See also [https://github.com/stkb/vscode-rewrap/releases](https://github.com/stkb/vscode-rewrap/releases) (for working links to issues)
+See also [https://github.com/dnut/rewrap/releases](https://github.com/dnut/rewrap/releases) (for working links to issues)
 
 #### 17.8
 - Fix error when using "Rewrap At..." command (#324)
@@ -130,7 +130,7 @@ This is a small release to push out unreleased changes and support Visual Studio
   comment is taken as-is with all indents being relative to the least indented
   line (that has text). [This allows the first line of a comment to be an
   indented code
-  block](https://github.com/stkb/Rewrap/issues/203#issuecomment-637767932),
+  block](https://github.com/dnut/rewrap/issues/203#issuecomment-637767932),
   which previously wasn't possible.
 - Fix issues that broke wrapping for extension-contributed languages in v1.12.0.
 - Markdown: Fix preserving indents in blockquote (#204).
@@ -262,7 +262,7 @@ Mostly bugfixes:
 
 ## 1.6.0
 
-- **Added auto-wrap feature (#45)** ([more info](https://github.com/stkb/Rewrap/wiki/Auto-wrap)).
+- **Added auto-wrap feature (#45)** ([more info](https://github.com/dnut/rewrap/wiki/Auto-wrap)).
 - Added languages: Lean and D (extra support for D doc-comments still to come)
 
 - Fixed: With reformat setting on, code blocks in comments and markdown documents now have
@@ -290,9 +290,9 @@ Mostly bugfixes:
 
 ## 1.5.0
 
-- Added multiple ruler support ([VSCode](https://github.com/stkb/Rewrap/wiki/Settings-VSCode#wrapping-to-rulers), [VS](https://github.com/stkb/Rewrap/wiki/Settings-Visual-Studio#wrapping-to-rulers)). (#30)
+- Added multiple ruler support ([VSCode](https://github.com/dnut/rewrap/wiki/Settings-VSCode#wrapping-to-rulers), [VS](https://github.com/dnut/rewrap/wiki/Settings-Visual-Studio#wrapping-to-rulers)). (#30)
 - Added Git tag editing as a document type.
-- VSCode: Removed old keybinding (ctrl+k ctrl+w) ([how to add it back](https://github.com/stkb/Rewrap/wiki/Keybindings-VSCode#old-keybinding))
+- VSCode: Removed old keybinding (ctrl+k ctrl+w) ([how to add it back](https://github.com/dnut/rewrap/wiki/Keybindings-VSCode#old-keybinding))
 - VS: Fixed bug in Options screen (#44)
 
 
@@ -317,7 +317,7 @@ Rewrap is now also available for Visual Studio!
 
 The main change in this release is that all<sup>1</sup> comments now are parsed as Markdown (CommonMark spec), enabling wrapping of bulleted/numbered lists and all other Markdown features.<sup>2</sup>
 
-Additionally, a new setting: `wholeCommment`, has been added to give more control over wrapping comments. See [here](https://github.com/stkb/Rewrap/wiki/Settings-VSCode#wrapping-whole-or-parts-of-comments).
+Additionally, a new setting: `wholeCommment`, has been added to give more control over wrapping comments. See [here](https://github.com/dnut/rewrap/wiki/Settings-VSCode#wrapping-whole-or-parts-of-comments).
 
 Added languages:
 - Elixir

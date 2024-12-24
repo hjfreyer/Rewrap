@@ -250,7 +250,7 @@ function createVSCReadme () {
 
 async function githubRelease (body) {
   const github = new Octokit({auth: process.env.GITHUB_PAT}).repos
-  const ownerRepo = {owner: "stkb", repo: "Rewrap"}
+  const ownerRepo = {owner: "dnut", repo: "Rewrap"}
   const ver = Version.fromVSC ()
 
   let old_release
