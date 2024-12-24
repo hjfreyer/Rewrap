@@ -55,7 +55,7 @@ export function catchErr(err) {
     console.log(err)
     console.error(
         "^^^^^^ Rewrap: Please report this (with a copy of the above lines) ^^^^^^\n" +
-        "at https://github.com/stkb/vscode-rewrap/issues"
+        "at https://github.com/dnut/rewrap/issues"
     )
     window.showInformationMessage(
         "Sorry, there was an error in Rewrap. " +

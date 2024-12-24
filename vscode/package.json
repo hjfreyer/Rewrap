@@ -17,10 +17,10 @@
   "icon": "logo.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stkb/Rewrap.git"
+    "url": "https://github.com/dnut/rewrap.git"
   },
   "bugs": {
-    "url": "https://github.com/stkb/Rewrap/issues",
+    "url": "https://github.com/dnut/rewrap/issues",
     "email": "scsavtnk@gmail.com"
   },
   "license": "SEE LICENSE IN LICENSE",
