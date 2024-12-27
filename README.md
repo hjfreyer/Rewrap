@@ -13,9 +13,14 @@ Latest stable version <b>1.16.3</b> / pre-release <b>17.x</b> /
 </td></tr></table>
 
 
-<h1 style="font-size: 2.5em">Rewrap</h1>
+<h1 style="font-size: 2.5em">Rewrap Revived</h1>
 
-<img src="https://dnut.github.io/Rewrap/images/example.svg" width="700px"/><br/><br/>
+Rewrap Revived is a Visual Studio and VS Code extension that is used to hard-wrap code 
+comments to a configured maximium line length. This is a fork of the unmaintained 
+[Rewrap](https://github.com/stkb/Rewrap) extension by Steve Baker 
+([@stkb](https://github.com/stkb)).
+
+<br><img src="https://dnut.github.io/Rewrap/images/example.svg" width="700px"/><br/><br/>
 
 The main Rewrap command is: <sn>**Rewrap Comment / Text**</sn>, by default bound to
 `Alt+Q`. With the cursor in a comment block, hit this to re-wrap the contents to the
