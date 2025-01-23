@@ -49,6 +49,6 @@ Rewrap Revived is available in both the
 and the [OpenVSX marketplace](https://open-vsx.org/extension/dnut/rewrap-revived).
 
 **Please install the pre-release version**. That way, you can identify any bugs and report
-them, so they don't make their way into the stable release. If *do* observe bugs, then you
+them, so they don't make their way into the stable release. If you *do* observe a bug, then you
 can switch to the stable release, and rest assured that the bug will not be introduced there,
 since you have reported the issue (unless of course, it is already present in both releases).
