@@ -44,7 +44,7 @@ See the docs site for more info.</a></b></div>
 
 ## Installation
 
-Rewrap Revived is available in both the Microsoft marketplace and the OpenVSIX marketplace
+Rewrap Revived is available in both the Microsoft marketplace and the OpenVSX marketplace
 (see links above).
 
 **Please install the pre-release version**. That way, you can identify any bugs and report
