@@ -26,7 +26,6 @@ The main Rewrap command is: <sn>**Rewrap Comment / Text**</sn>, by default bound
 `Alt+Q`. With the cursor in a comment block, hit this to re-wrap the contents to the
 [specified wrapping column](https://dnut.github.io/Rewrap/configuration/#wrapping-column).
 
-
 ## Features
 
 * Re-wrap comment blocks in many languages, with per-language settings.
@@ -42,3 +41,13 @@ samples (which are untouched) etc:
 
 <div class="hideOnDocsSite"><br/><b><a href="https://dnut.github.io/Rewrap/">
 See the docs site for more info.</a></b></div>
+
+## Installation
+
+Rewrap Revived is available in both the Microsoft marketplace and the OpenVSIX marketplace
+(see links above).
+
+**Please install the pre-release version**. That way, you can identify any bugs and report
+them, so they don't make their way into the stable release. If *do* observe bugs, then you
+can switch to the stable release, and rest assured that the bug will not be introduced there,
+since you have reported the issue (unless of course, it is already present in both releases).
