@@ -44,8 +44,9 @@ See the docs site for more info.</a></b></div>
 
 ## Installation
 
-Rewrap Revived is available in both the Microsoft marketplace and the OpenVSX marketplace
-(see links above).
+Rewrap Revived is available in both the
+[Microsoft marketplace](https://marketplace.visualstudio.com/items?itemName=dnut.rewrap-revived)
+and the [OpenVSX marketplace](https://open-vsx.org/extension/dnut/rewrap-revived).
 
 **Please install the pre-release version**. That way, you can identify any bugs and report
 them, so they don't make their way into the stable release. If *do* observe bugs, then you
