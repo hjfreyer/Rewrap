@@ -2,6 +2,7 @@
 set -euxo pipefail
 
 build() {
+    cd vscode && npm install && cd ..
     dotnet fable core/Core.fsproj -o core/dist/dev --noRestore
     npx parcel build core --cache-dir .obj/parcel
     npx parcel build vscode --no-source-maps --cache-dir .obj/parcel

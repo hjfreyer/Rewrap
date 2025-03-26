@@ -1,5 +1,8 @@
 See also [https://github.com/dnut/rewrap/releases](https://github.com/dnut/rewrap/releases) (for working links to issues)
 
+
+#### 17.9
+- Add Zig language support (#1)
 #### 17.8
 - Fix error when using "Rewrap At..." command (#324)
 #### 17.7
